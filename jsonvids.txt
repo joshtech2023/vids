@@ -4,7 +4,7 @@
       "name": "Movies",
       "videos": [
         {
-          "description": "THIS IS A TEST NOW ARE FREE TO GO",
+          "description": "VJ GRADE ONE ",
           "sources": [
             "https://ik.imagekit.io/sineema/Witch_part2_intro.mp4?updatedAt=1678948438997"
           ],
