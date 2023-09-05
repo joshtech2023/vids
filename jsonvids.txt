@@ -15,7 +15,7 @@
         {
           "description": "VJ EMMY",
           "sources": [
-            "https://ik.imagekit.io/sineema/Elton%20John%20-%20Sacrifice.mp4?updatedAt=1691670425742"
+            "https://ik.imagekit.io/sineema/photo_2023-02-23_13-48-19.jpg?updatedAt=1679391381599"
           ],
           "subtitle": "By Blender Foundation",
           "thumb": "https://ik.imagekit.io/sineema/ghosted.jpg?updatedAt=1683266218860",
