@@ -4,7 +4,7 @@
       "name": "Movies",
       "videos": [
         {
-          "description": "VJ GRADE ONE ",
+          "description": "VJ GRADE ONE",
           "sources": [
             "https://ik.imagekit.io/sineema/Witch_part2_intro.mp4?updatedAt=1678948438997"
           ],
@@ -13,13 +13,13 @@
           "title": "SPECIAL DELIVERY"
         },
         {
-          "description": "The first Blender Open Movie from 2006",
+          "description": "VJ EMMY",
           "sources": [
             "https://ik.imagekit.io/sineema/Elton%20John%20-%20Sacrifice.mp4?updatedAt=1691670425742"
           ],
           "subtitle": "By Blender Foundation",
           "thumb": "https://ik.imagekit.io/sineema/ghosted.jpg?updatedAt=1683266218860",
-          "title": "Elephant Dream"
+          "title": "When we were young"
         },
         {
           "description": "HBO chromecast.",
